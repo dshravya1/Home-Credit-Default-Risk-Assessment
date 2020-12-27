@@ -1,0 +1,1 @@
+Problem Statement of this project is to To build a model to categorize the risk of the repayment ability of the borrowers considering various financial metrics other than credit history and evaluate the results. This is a Semi-Supervised Learning problem where customers are classified as high risk, medium risk, and low-risk groups of repaying the loan.
